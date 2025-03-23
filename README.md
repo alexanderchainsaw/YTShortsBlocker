@@ -2,6 +2,8 @@
 
 This Chrome extension allows you to block YouTube Shorts during specified time periods. You can set up either one-time blocks or daily recurring blocks.
 
+![image](https://github.com/alexanderchainsaw/YTShortsBlocker/blob/main/demo/demo1.png?raw=true)
+![image](https://github.com/alexanderchainsaw/YTShortsBlocker/blob/main/demo/demo2.png?raw=true)
 ## Features
 
 - One-time blocking: Block Shorts for a specific duration (minutes, hours, or days)
