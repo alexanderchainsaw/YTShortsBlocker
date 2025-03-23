@@ -33,12 +33,3 @@ This Chrome extension allows you to block YouTube Shorts during specified time p
 ## How it Works
 
 The extension works by hiding YouTube Shorts elements on the page when the block is active. It uses a MutationObserver to ensure that new Shorts are also hidden as they are loaded.
-
-## Files
-
-- `manifest.json`: Extension configuration
-- `popup.html`: User interface
-- `popup.js`: Popup logic
-- `background.js`: Background service worker
-- `content.js`: Content script that handles the actual blocking
-- `icons/`: Directory containing extension icons
